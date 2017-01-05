@@ -1,0 +1,16 @@
+.header{
+    background-position: center;
+}
+
+#intro-section h1, #intro-section h5{
+    text-shadow: 0px 0px 1px rgba(186, 185, 185, 0.63);
+    font-weight: 600;
+}
+
+#intro-section .white-text {
+	color: #2a2a2a;
+}
+
+.overlay-layer-wrap {
+	background-color: rgba(247, 248, 250, 0.4);
+}
