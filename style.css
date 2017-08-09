@@ -1570,7 +1570,7 @@ header .navbar-brand {
 	display: inline-block;
 	margin-right: 10px;
 	vertical-align: middle;
-	text-align: !important;
+	/*text-align: !important;*/
 	font-size: 16px;
 	height: 40px;
 	line-height: 40px;
@@ -5761,7 +5761,7 @@ h2.screen-reader-text {
 	}
 
 	.dropdownmenu:before {
-		content "";
+		content: "";
 		text-align: center;
 		width: 25px;
 		height: 25px;
